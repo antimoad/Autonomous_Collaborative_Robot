@@ -1,0 +1,1 @@
+/home/riki/Desktop/panda_final/devel/.private/catkin_tools_prebuild/local_setup.bash

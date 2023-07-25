@@ -1,0 +1,8 @@
+prefix=/home/riki/Desktop/panda_final/devel/.private/gazebos
+
+Name: gazebos
+Description: Description of gazebos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

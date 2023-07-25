@@ -1,0 +1,8 @@
+prefix=/home/riki/Desktop/panda_final/install
+
+Name: gazebos
+Description: Description of gazebos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

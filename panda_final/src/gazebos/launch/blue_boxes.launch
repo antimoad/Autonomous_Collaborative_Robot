@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+	<launch>
+		<!-- Load the CougarBot URDF model into the parameter server -->
+		<param name="blue_box" textfile="$(find gazebos)/resources/cube3/modelBlue.sdf"/>
+		<!-- Start Gazebo with an empty world -->
+
+		<include file="$(find gazebo_ros)/launch/empty_world.launch"/>
+
+		<node name="spawn_box" pkg="gazebo_ros" type="spawn_model"
+		args="-param table -sdf -model blue_box" />
+
+	</launch>
+

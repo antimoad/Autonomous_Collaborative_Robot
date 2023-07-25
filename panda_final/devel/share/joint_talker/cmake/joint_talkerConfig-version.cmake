@@ -1,0 +1,1 @@
+/home/riki/Desktop/panda_final/devel/.private/joint_talker/share/joint_talker/cmake/joint_talkerConfig-version.cmake

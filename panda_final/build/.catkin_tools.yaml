@@ -1,0 +1,6 @@
+devel_space: /home/riki/Desktop/panda_final/devel
+install: false
+install_space: /home/riki/Desktop/panda_final/install
+profile: default
+source_space: /home/riki/Desktop/panda_final/src
+workspace: /home/riki/Desktop/panda_final

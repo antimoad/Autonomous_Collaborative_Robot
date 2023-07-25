@@ -1,0 +1,5 @@
+gazebos
+/home/riki/Desktop/panda_final/devel/.private/gazebos/cmake.lock /home/riki/Desktop/panda_final/devel/./cmake.lock
+/home/riki/Desktop/panda_final/devel/.private/gazebos/share/gazebos/cmake/gazebosConfig.cmake /home/riki/Desktop/panda_final/devel/share/gazebos/cmake/gazebosConfig.cmake
+/home/riki/Desktop/panda_final/devel/.private/gazebos/share/gazebos/cmake/gazebosConfig-version.cmake /home/riki/Desktop/panda_final/devel/share/gazebos/cmake/gazebosConfig-version.cmake
+/home/riki/Desktop/panda_final/devel/.private/gazebos/lib/pkgconfig/gazebos.pc /home/riki/Desktop/panda_final/devel/lib/pkgconfig/gazebos.pc

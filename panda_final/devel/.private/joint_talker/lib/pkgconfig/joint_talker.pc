@@ -1,0 +1,8 @@
+prefix=/home/riki/Desktop/panda_final/devel/.private/joint_talker
+
+Name: joint_talker
+Description: Description of joint_talker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
